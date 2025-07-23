@@ -1,0 +1,16 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Streamlit model artifact
+house_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db

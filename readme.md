@@ -1,5 +1,7 @@
 # 🏠 House Price Predictor
-
+<p align="center">
+  <img src="house.png" width="800" />
+</p>
 A Streamlit web app that uses a Linear Regression model to predict house prices based on **size**, **bedrooms**, and **age**. The app features an interactive UI with light/dark themes, real-time predictions, and detailed model performance insights.
 
 ---
